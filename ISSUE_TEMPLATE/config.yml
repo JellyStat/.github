@@ -1,0 +1,10 @@
+# Default for repos without their own templates (Jellystat-UI, JellyStat-API-Core).
+# User-facing bugs and requests belong in the Jellystat repo.
+blank_issues_enabled: true
+contact_links:
+  - name: Report a bug or request a feature
+    url: https://github.com/JellyStat/Jellystat/issues/new/choose
+    about: Please report problems in the main Jellystat repo, even if they're in the UI or API.
+  - name: Questions and help
+    url: https://github.com/JellyStat/Jellystat/discussions
+    about: Ask setup questions and share ideas in Discussions.
